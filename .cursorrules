@@ -1,0 +1,19 @@
+You are working on HabitFlow iOS.
+
+You MUST follow the HabitFlow Color & Style Guidelines.
+You MUST follow the HabitFlow Canonical Vocabulary and iOS Feature Spec.
+
+Hard rules:
+- Never introduce punitive colors, copy, or visual states
+- Never invent completion, streak, or progress states
+- All UI completion is derived from HabitEntry truth
+- Prefer subtle emphasis over strong contrast
+- Favor calm, low-saturation palettes
+- UI must feel supportive, not evaluative
+
+If a design choice conflicts with:
+1) Canonical Vocabulary
+2) iOS Feature Spec
+3) These Style Guidelines
+
+The design choice is invalid.
